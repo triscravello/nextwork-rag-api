@@ -1,0 +1,11 @@
+My name is Tristan Cravello.
+I'm currently learning about cloud computing, AI, and DevOps.
+
+My career goal is to become a software engineer with a strong cloud and AI skills, potentially specializing in DevOps, Cloud Engineering, AI Engineering, or building technology solutions in education.
+I'm especially interested in automation, infrastructure as code, machine learning, and cloud-native technologies..
+
+I have experience with Python, JavaScript, AWS, Docker, Next.js, React, and PostgreSQL.
+I'm currently building projects on NextWork to grow my hands-on skills.
+
+For fun, I enjoy distance running, learning new technologies, building software projects, coaching and mentoring, and exploring how technology can solve real-world problems.
+A fun fact about me is I've run a marathon and have a half-marathon personal best of 1:15:51..
